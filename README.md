@@ -136,8 +136,9 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ```
 
 ## Output:
-!(https://github.com/SudharsanamRK/cover-page-design/assets/115523484/66a1d7ce-88a5-4f13-b841-542dba084023)
-!(https://github.com/SudharsanamRK/cover-page-design/assets/115523484/ccaf37f2-48f7-4013-b7f9-cb2b2e77ce80)
+
+![Screenshot 2023-05-29 090215](https://github.com/SudharsanamRK/cover-page-design/assets/115523484/e3f4cc42-7abe-4bc1-a546-19f648174458)
+![Screenshot 2023-05-29 090339](https://github.com/SudharsanamRK/cover-page-design/assets/115523484/1b38af18-3b07-4709-a4c5-ed1dbf4b585a)
 
 
 ## Result:

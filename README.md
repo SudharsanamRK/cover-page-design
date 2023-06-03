@@ -138,7 +138,9 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ## Output:
 
 ![Screenshot 2023-05-29 090215](https://github.com/SudharsanamRK/cover-page-design/assets/115523484/e3f4cc42-7abe-4bc1-a546-19f648174458)
-![Screenshot 2023-05-29 090339](https://github.com/SudharsanamRK/cover-page-design/assets/115523484/1b38af18-3b07-4709-a4c5-ed1dbf4b585a)
+
+# Server Validator:
+![image](https://github.com/SudharsanamRK/cover-page-design/assets/115523484/2f316f36-80c4-409f-81c1-da0d0adea576)
 
 
 ## Result:

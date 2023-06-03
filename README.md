@@ -144,4 +144,4 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 
 ## Result:
-Thus the program has been successfully executed.
+Thus the program to develop a website to display the cover page design of a book has been successfully executed.
